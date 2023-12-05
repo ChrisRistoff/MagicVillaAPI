@@ -1,0 +1,28 @@
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.pdb
+
+# IDE
+.idea/
+*.iml
+
+# packages
+*.nupkg
+
+# temp files
+*.tmp
+*.temp
+*~
+
+# logs
+*.log
+*.log.*
+
+publish/
+
+appsettings.json
+appsettings.*.json
